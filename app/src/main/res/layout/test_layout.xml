@@ -5,6 +5,11 @@
     <TextView
         android:id="@+id/textView01"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:text="textView01"/>
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="뒤로 돌아가기" />
 </LinearLayout>
