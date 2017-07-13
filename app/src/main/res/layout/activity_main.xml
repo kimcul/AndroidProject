@@ -7,23 +7,22 @@
     <TextView
         android:id="@+id/textView01"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:text="textView01"/>
     <TextView
         android:id="@+id/textView02"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="textView02"/>
+        android:layout_height="wrap_content"
+        android:text="textView02"
+        android:onClick="onClickedTextView02"/>
     <TextView
         android:id="@+id/textView03"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:text="textView03"/>
     <TextView
         android:id="@+id/textView04"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:text="textView04"/>
-
-
 </LinearLayout>
