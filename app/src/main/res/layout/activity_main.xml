@@ -19,5 +19,11 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="textView03"/>
+    <TextView
+        android:id="@+id/textView04"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="textView04"/>
+
 
 </LinearLayout>
